@@ -11,4 +11,22 @@ Demos:
 Mobile: https://lnkd.in/eBUxEBq
 Web: https://lnkd.in/eWVzR9X
 
-Obrigado Rocketseat!
+Project by Rocketseat.
+
+<b>Tech Stack:</b>
+
+react  
+react-native  
+node    
+nodejs  
+javascript  
+expo  
+knex  
+crypto  
+axios  
+nodemon  
+sqlite3  
+cors  
+intl  
+celebrate  
+jest  
